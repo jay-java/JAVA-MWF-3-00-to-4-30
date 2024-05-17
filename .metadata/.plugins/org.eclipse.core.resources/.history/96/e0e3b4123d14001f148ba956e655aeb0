@@ -1,0 +1,12 @@
+package core;
+//byte,short,int,long,float,double,char,boolean
+//array,String,class
+public class P001_Datatype {
+	public static void main(String[] args) {
+		byte b = 127;//1
+		System.out.println(b);
+		short s = 12;//2
+		int i = 12;//4
+		long l = 12;//8
+	}
+}
