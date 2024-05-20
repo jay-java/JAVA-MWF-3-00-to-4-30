@@ -1,0 +1,12 @@
+package core;
+
+import java.util.Scanner;
+
+public class P004_ConditionalStatements {
+	public static void main(String[] args) {
+		Scanner sc  = new Scanner(System.in);
+		System.out.println("enter value = ");
+		int a  = sc.nextInt();
+		
+	}
+}

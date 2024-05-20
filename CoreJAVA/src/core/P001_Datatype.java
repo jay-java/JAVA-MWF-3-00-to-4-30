@@ -13,9 +13,14 @@ public class P001_Datatype {
 		char c = '1';
 		boolean flag = true;
 		int j=12,k=13;
+		System.out.println(i>j);
 		System.out.println("j = "+j);
 		System.out.println("addition of j and k = "+(j+k));
 		int add = j+k;
 		System.out.println(add);
+		
+		String name="java";
+		System.out.println();
+		
 	}
 }
